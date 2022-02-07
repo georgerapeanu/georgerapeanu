@@ -1,5 +1,5 @@
 ### Hi there 👋
----
+
 ## About me
 I am currently a freshman student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
 
