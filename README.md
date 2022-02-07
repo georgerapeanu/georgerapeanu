@@ -9,7 +9,7 @@ Some of the projects I am most proud of are:
 * <a href="https://github.com/georgerapeanu/ImageDecomposerC">Image decomposer</a> - an app that uses a Monte Carlo approach in order to approximate images using various shapes. It also has multi-threading support.
 * <a href="https://github.com/georgerapeanu/Remote-Gamepad"> Remote gamepad </a> - a tiny script that was designed for the First Tech Challenge, that allows controlling the robot remotely, across the internet using TCP and a VPN.
 * <a href="https://github.com/georgerapeanu/c-sources"> c++ sources </a> - this is a repository containing almost all my work for competitive programming
-* <a href="https://github.com/georgerapeanu/BBU-Computer-Science"> </a> - here you can find a good part of all my university-related work.
+* <a href="https://github.com/georgerapeanu/BBU-Computer-Science"> BBU-Computer-Science </a> - here you can find a good part of all my university-related work.
 <!--
 **georgerapeanu/georgerapeanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
