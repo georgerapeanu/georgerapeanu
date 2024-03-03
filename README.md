@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am currently a freshman student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
+I am currently a last-year student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
 
 ## Project showcase
 Some of the projects I am most proud of are:
