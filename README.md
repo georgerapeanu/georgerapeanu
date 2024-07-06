@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 ## About me
-I am currently a last-year student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
+I have graduated as valedictorian at Babeș-Bolyai University bachelors degree in Computer Science.
 
 ## Project showcase
 Some of the projects I am most proud of are:
+* <a href="https://github.com/georgerapeanu/thesis"> Bachelor's thesis </a> - The culmination of the three years spent in uni, now with AI and LLM's.
 * <a href="https://github.com/georgerapeanu/BBU-Computer-Science"> BBU-Computer-Science </a> - here you can find a good part of all my university-related work.
 * <a href="https://github.com/georgerapeanu/EmbedMarkdownTool">Embed markdown tool</a> - a simple tool that allows building more complex markdown(and other type of files) files. 
 * <a href="https://github.com/georgerapeanu/ImageDecomposerC">Image decomposer</a> - an app that uses a Monte Carlo approach in order to approximate images using various shapes. It also has multi-threading support.
